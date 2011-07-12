@@ -1,0 +1,35 @@
+GlobalsoftPH Co. 2005-2011
+Research and Development
+support@globalsoftph.com
+
+INFO
+====
+dialog-single       = single user asterisk dialog
+dialog-multi-user   = multi user asterisk dialog
+
+gssingle = wrapper for dialog-single 
+gsmulti  = wrapper for dialog multiple
+
+TODO
+====
+
+ * ./LICENSE
+ * ./INSTALL
+ * ./etc
+
+ * ./gssingle
+	* bin
+        * config
+		*.perms
+		*.users
+		
+ * ./gsmulti
+	* bin
+        * config
+		*.perms
+		*.users
+
+ * ./extra
+ 	* sudoers.sample
+ 	* SUDOERS.INSTALL
+
